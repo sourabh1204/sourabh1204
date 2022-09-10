@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sourabh1204
+- 👀 I’m interested in seeking opportunities for internship
+- 🌱 I’m currently pursuing my MS in CS at North Carolina State University, Raleigh, NC
+- 📫 How to reach me : sswattam@ncsu.edu
